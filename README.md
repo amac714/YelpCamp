@@ -1,4 +1,8 @@
 # YelpCamp
-RESTful web app
+RESTful web app. 
+This project was created by following a tutorial for learning purposes. 
 
-https://peaceful-ridge-49695.herokuapp.com/
+# Screenshot
+
+
+
